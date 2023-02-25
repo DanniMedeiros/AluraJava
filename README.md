@@ -1,0 +1,1 @@
+"#AluraJava - Oi! Eu sou a Dani e estou estudando atrav‚s da Alura sobre Java. Me apaixonei pela linguagem quando meu professor Renato Montanher (faculdade) come‡ou a lecionar. Gostei, fui atr s e c  estou eu." 
